@@ -9,17 +9,16 @@
 
 - 📫 How to reach me **xoxmadoxox76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1717S8XSP3qtxGTde_NsZ3jTR7kT8b-78/view?usp=sharing](https://drive.google.com/file/d/1717S8XSP3qtxGTde_NsZ3jTR7kT8b-78/view?usp=sharing)
+- 📄 Download CV <a href="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" target="_blank"><img align="center" src="https://www.ijirmf.com/wp-content/uploads/CLICK-HERE-TO-DOWNLOAD@.png" alt="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" height="50" width="125" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alaa-eldin-tarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaa-eldin-tarek/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/AlaaEldinFrontEndWebDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/AlaaEldinFrontEndWebDeveloper" height="30" width="40" /></a>
-  <a href="https://instagram.com/alaaeldintarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
-<a href="https://codepen.io/alaaeldintarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/AlaaEldinTarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
-<a href="https://instagram.com/alaaeldintarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alaa-eldin-tarek/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaa-eldin-tarek/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/AlaaEldinFrontEndWebDeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/AlaaEldinFrontEndWebDeveloper" height="30" width="40" /></a>
+  <a href="https://instagram.com/alaaeldintarek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
+<a href="https://codepen.io/alaaeldintarek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/AlaaEldinTarek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="AlaaEldinTarek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
