@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Any new Front-end web developer projects**
 
-- 📫 How to reach me **xoxmadoxox76@gmail.com**
+- 📫 How to reach me **3laa.eldin.tarek@gmail.com**
 
-- 📄 Download CV <a href="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" target="_blank"><img align="center" src="https://www.ijirmf.com/wp-content/uploads/CLICK-HERE-TO-DOWNLOAD@.png" alt="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" height="50" width="125" /></a>
+- 📄 Download CV <a href="https://drive.google.com/file/d/1__GnaOkUzcg1MM14VuRd5aOftucIA6fA/view?usp=sharing" target="_blank"><img align="center" src="https://www.ijirmf.com/wp-content/uploads/CLICK-HERE-TO-DOWNLOAD@.png" alt="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" height="50" width="125" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
