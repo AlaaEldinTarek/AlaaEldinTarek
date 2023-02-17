@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaEldinTarek&show_icons=true&locale=en&layout=compact" alt="ettharrhassan" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zheni4ka&theme=github_dark) 
+![](https://komarev.com/ghpvc/?username=zheni4ka)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaEldinTarek&show_icons=true&locale=en" alt="ettharrhassan" /></p>
 
