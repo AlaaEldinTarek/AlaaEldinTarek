@@ -29,9 +29,9 @@
 
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaEldinTarek&show_icons=true&locale=en" alt="ettharrhassan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlaaEldinTarek&show_icons=true&locale=en" alt="ettharrhassan" /></p>
 <hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaEldinTarek&" alt="ettharrhassan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaEldinTarek&" alt="ettharrhassan" /></p>
 
 
 
