@@ -93,11 +93,11 @@
 <hr/>
 
 
-<img align="right" height="250" src="https://media.giphy.com/media/jBNMU7bMfzLjy5JD6w/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/jBNMU7bMfzLjy5JD6w/giphy.gif"  />
 
 
 <div align="left">
-  <img height="250" src="https://camo.githubusercontent.com/77d31b7c66ea39b1ee235b7327554139cd626e6a086561824a69708547448316/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c6161456c64696e546172656b26"  />
+  <img height="200" src="https://camo.githubusercontent.com/77d31b7c66ea39b1ee235b7327554139cd626e6a086561824a69708547448316/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c6161456c64696e546172656b26"  />
 </div>
 
 <hr/>
