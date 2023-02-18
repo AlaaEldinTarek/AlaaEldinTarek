@@ -115,9 +115,9 @@
 
 <hr/>
 
-<p align="center">
-![Snake animation](https://github.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/github-contribution-grid-snake.svg)
-</p>
+<div align="center">
+<img src="https://github.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 
 
