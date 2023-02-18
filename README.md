@@ -115,10 +115,9 @@
 
 <hr/>
 
-
-
-  ![Snake animation](https://github.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+![Snake animation](https://github.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 
 
