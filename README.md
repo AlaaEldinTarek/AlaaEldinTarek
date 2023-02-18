@@ -48,7 +48,7 @@
 <p align="center">
   <h3 align="center">Follow Me !!</h3> 
   <p align="center">
-  <a href="https://www.youtube.com/channel/UCIGX8vqSXgwr-i9iQkza0eA" target="_blank">
+  <a href="https://www.youtube.com/@al-coder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="50" alt="youtube logo"/>
   </a>
   <a href="https://www.linkedin.com/in/alaa-eldin-tarek/" target="_blank">
