@@ -22,7 +22,14 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaEldinTarek&" alt="ettharrhassan" /></p> -->
 
-<h1 align="center">Hi 👋! My name is Alaa Eldin Tarek <br>I'm a Front-End Web Developer (React.js) <br>from EGYPT</h1>
+<h1 align="center">Hi 👋! My name is Alaa Eldin Tarek from EGYPT <br>I'm a Front-End Web Developer {React.js} <img
+      src="https://em-content.zobj.net/source/microsoft-teams/337/smiling-face-with-hearts_1f970.png"
+      srcSet="https://em-content.zobj.net/source/microsoft-teams/337/smiling-face-with-hearts_1f970.png 2x"
+      alt="Smiling Face with Hearts"
+      title="Smiling Face with Hearts"
+      width="40"
+      height="40"
+    ></img></h1>
 
 <div align="center">
   <p>- 🔭 I’m currently working on website <span>https://al-coder.com</span></p>
@@ -32,17 +39,18 @@
 
 <p>- 📄 Download CV <a href="https://drive.google.com/file/d/1__GnaOkUzcg1MM14VuRd5aOftucIA6fA/view?usp=sharing" target="_blank"><img align="center" src="https://www.ijirmf.com/wp-content/uploads/CLICK-HERE-TO-DOWNLOAD@.png" alt="https://drive.google.com/file/d/1YShkm_BT7o7yGdn5vr017ZKkaG5gTDe4/view?usp=sharing" height="50" width="125" /></a></p>
  </div>
-<br clear="both">
+
+
 <hr/>
+
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=AlaaEldinTarek" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&username=AlaaEldinTarek" height="200" alt="languages graph"  />
 </div>
 
-###
+
 <hr/>
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="53" width="65" alt="html5 logo"  />
@@ -56,9 +64,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="53" width="65" alt="nextjs logo"  />
 </div>
 
-###
 
-<br clear="both">
+<hr/>
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCIGX8vqSXgwr-i9iQkza0eA" target="_blank">
@@ -81,21 +89,23 @@
   </a>
 </div>
 
-###
+
+<hr/>
+
 
 <img align="right" height="250" src="https://media.giphy.com/media/jBNMU7bMfzLjy5JD6w/giphy.gif"  />
 
-###
 
 <div align="left">
   <img height="250" src="https://camo.githubusercontent.com/77d31b7c66ea39b1ee235b7327554139cd626e6a086561824a69708547448316/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c6161456c64696e546172656b26"  />
 </div>
 
-###
+<hr/>
 
 <img src="https://raw.githubusercontent.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/snake.svg" alt="Snake animation" />
 
-###
+
+<hr/>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31jnk3jdgy6kmghpsgoexyqis42u">
@@ -103,7 +113,6 @@
   </a>
 </div>
 
-###
 
 <!---
 AlaaEldinTarek/AlaaEldinTarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
