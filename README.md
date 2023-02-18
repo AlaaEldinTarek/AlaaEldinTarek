@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="50" alt="facebook logo"/>
   </a>
   </p>
-  <h3 align="center">Conect Me !!</h3> 
+  <h3 align="center">Contact Me !!</h3> 
   <p align="center">
   <a href="https://api.whatsapp.com/message/4ZURPDIAURUBJ1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="50" alt="whatsapp logo"/>
