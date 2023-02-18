@@ -112,18 +112,22 @@
   
 </div>
 
-<hr/>
-
-<img src="https://raw.githubusercontent.com/AlaaEldinTarek/AlaaEldinTarek/blob/output/snake.svg" alt="Snake animation" />
-
 
 <hr/>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31jnk3jdgy6kmghpsgoexyqis42u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+
+
+  ![Snake animation](https://github.com/AlaaEldinTarek/TesteNat/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+<h6 align="center">Visitor's Count</h6>
+ 
+<div>
+<p style="font-size: 4px;" align="center"><img src="https://profile-counter.glitch.me/{AlaaEldinTarek}/count.svg" alt="AlaaEldinTarek :: " /></p>
 </div>
+
 
 
 <!---
