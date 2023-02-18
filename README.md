@@ -53,6 +53,7 @@
 
 
 <div align="center">
+  <h3 align="center">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="53" width="65" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="53" width="65" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="53" width="65" alt="javascript logo"  />
@@ -69,6 +70,8 @@
 
 
 <p align="center">
+  <h3 align="center">Follow Me !!</h3> 
+  <p align="center">
   <a href="https://www.youtube.com/channel/UCIGX8vqSXgwr-i9iQkza0eA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="50" alt="youtube logo"/>
   </a>
@@ -81,23 +84,32 @@
   <a href="https://www.facebook.com/Alaa.Elin.Tarek" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="50" alt="facebook logo"/>
   </a>
+  </p>
+  <h3 align="center">Conect Me !!</h3> 
+  <p align="center">
   <a href="https://api.whatsapp.com/message/4ZURPDIAURUBJ1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="50" alt="whatsapp logo"/>
   </a>
   <a href="https://t.me/+201002705300" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="50" alt="telegram logo"  />
   </a>
+  </p>
 </p>
 
 
 <hr/>
 
-
+<div align="right">
+  <a href="https://al-coder.com" target="_blank">
 <img align="right" height="200" src="https://media.giphy.com/media/jBNMU7bMfzLjy5JD6w/giphy.gif"  />
+  </a>
+  </div>
 
 
 <div align="left">
+  
   <img height="200" src="https://camo.githubusercontent.com/77d31b7c66ea39b1ee235b7327554139cd626e6a086561824a69708547448316/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416c6161456c64696e546172656b26"  />
+  
 </div>
 
 <hr/>
